@@ -4,7 +4,7 @@
 
 <h2>Documentação (Monografia) <img margin-width="20"/>  <img src="https://i.imgur.com/alGl8rO.png" height="70" width="70" top="25" /></h2> 
 <p>A documentação (monografia) pode ser encontrada clicando no botão abaixo:</p> 
-<a href=""> <img margin-top="220" src="https://i.imgur.com/ZAPeFp7.png" height="150" width="150"/> </a>
+<a href="https://github.com/AMoutinho/SIG-OS/blob/main/Documentação%20(Monografia)/TCC_SIG-OS_AndreM.pdf"> <img margin-top="220" src="https://i.imgur.com/ZAPeFp7.png" height="150" width="150"/> </a>
 
 <h2>Tecnologias utilizadas <img margin-width="10"/>  <img src="https://i.imgur.com/o4IHFfE.png" height="70" width="70" top="25" /></h2> 
 
